@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+# Your real exports and outputs: keep them out of git
+*.csv
+!samples/**/*.csv
+
+# Internal launch notes (not for the public repo)
+SHOW_HN.md

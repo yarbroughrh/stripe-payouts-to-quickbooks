@@ -1,0 +1,10 @@
+Journal No.,Journal Date,Account Name,Debits,Credits,Description,Name,Currency
+STRIPE-20260306-1,03/06/2026,Sales,,465.00,Gross sales - Stripe payout po_sample_A,,USD
+STRIPE-20260306-1,03/06/2026,Refunds,45.00,,Refunds - Stripe payout po_sample_A,,USD
+STRIPE-20260306-1,03/06/2026,Stripe Fees,14.89,,Stripe fees - Stripe payout po_sample_A,,USD
+STRIPE-20260306-1,03/06/2026,Checking,405.11,,Payout deposit - Stripe payout po_sample_A,,USD
+STRIPE-20260313-2,03/13/2026,Sales,,339.00,Gross sales - Stripe payout po_sample_B,,USD
+STRIPE-20260313-2,03/13/2026,Chargebacks,120.00,,Disputes / chargebacks - Stripe payout po_sample_B,,USD
+STRIPE-20260313-2,03/13/2026,Sales Tax Payable,,12.60,Tax collected - Stripe payout po_sample_B,,USD
+STRIPE-20260313-2,03/13/2026,Stripe Fees,25.43,,Stripe fees - Stripe payout po_sample_B,,USD
+STRIPE-20260313-2,03/13/2026,Checking,206.17,,Payout deposit - Stripe payout po_sample_B,,USD
